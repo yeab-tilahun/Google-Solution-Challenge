@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "339193382070",
+    "project_id": "study-gini",
+    "storage_bucket": "study-gini.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339193382070:android:8b0daac0e0dbb358e55217",
+        "android_client_info": {
+          "package_name": "com.example.studygini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339193382070-7duhafh8ciajv0fstauv06rakps9sabs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studygini",
+            "certificate_hash": "2c262953ae4feb684456c1dcf8f01bd598221405"
+          }
+        },
+        {
+          "client_id": "339193382070-s4rsvobmf0vbv9ntk84nqfurk123d1sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhbYtwO6dTMDKTrOzV45UiAdjNXMp8oPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339193382070-csiav8ejsbehaab93chfa6r1t66lqh9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
