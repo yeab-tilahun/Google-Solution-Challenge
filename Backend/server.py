@@ -7,8 +7,15 @@ from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
 from langchain.chains import RetrievalQAWithSourcesChain 
 import ai
+from flask_cors import CORS, cross_origin
+
 
 app = Flask(__name__)
+cors = CORS(app)
+
+app.config['CORS_HEADERS'] = 'Content-Type'
+app.config['CORS_RESOURCES'] = {r"/*": {"origins": "*"}}
+
 
 # config = configparser.ConfigParser()
 # config.read('config.ini')
@@ -24,10 +31,13 @@ app = Flask(__name__)
 # chain = RetrievalQAWithSourcesChain.from_chain_type(OpenAI(temperature=0), chain_type="stuff", retriever=docsearch.as_retriever())
 # app.config['chain'] = chain
 
+
+
 @app.route('/question', methods=['POST'])
+@cross_origin()
 def answer():
     if app.config.get('answer') is None:
-        app.config['answer'] = ai.AI()
+        app.config['answer'] = ai.AI("modules/anthro.pdf")
         # get the question from json
     data = request.get_json()
     question = data['question']
@@ -36,23 +46,31 @@ def answer():
     return app.config['answer'].answer(question)
 
 
-# @app.route('/upload', methods=['POST'])
-# def upload():
-#     # if the uploaded file is pdf
-#     if request.files['file'].filename.endswith('.pdf'):
-#         # save the file
-#         file = request.files['file']
-#         file.save('file.pdf')
-#         # create a loader for the pdf
-#         loader = PyPDFLoader('file.pdf')
-#         # create a new index
-#         index = VectorstoreIndexCreator().from_loaders([loader])
-#         # set the index as the answer
-#         app.config['answer'] = index
-#         return 'File uploaded'
-#     elif request.files['file'].filename.endswith('.docx'):
 
-#     else:
+@app.route('/upload', methods=['POST'])
+@cross_origin()
+def upload():
+    # if the uploaded file is pdf
+    if request.files['file'].filename.endswith('.pdf'):
+        # save the file
+        file = request.files['file']
+        file.save('file.pdf')
+        app.config['answer'] = ai.AI("file.pdf")
+        return {"message": "File uploaded successfully"}
+    elif request.files['file'].filename.endswith('.docx'):
+        # save the file
+        file = request.files['file']
+        file.save('file.docx')
+        app.config['answer'] = ai.AI("file.docx", "docx")
+        return {"message": "File uploaded successfully"}
+    elif request.files['file'].filename.endswith('.pptx'):
+        # save the file
+        file = request.files['file']
+        file.save('file.pptx')
+        app.config['answer'] = ai.AI("file.pptx", "pptx")
+        return {"message": "File uploaded successfully"}
+    else:
+        return {"message": "Invalid file type"}
 
 
 # @app.route('/answer', methods=['POST', 'GET'])

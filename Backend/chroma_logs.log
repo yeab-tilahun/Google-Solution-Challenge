@@ -147,3 +147,336 @@ DEBUG:Chroma:time to pre process our knn query: 0.0
 DEBUG:Chroma:time to run knn query: 0.0
 INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 12:17:41] "[35m[1mPOST /question HTTP/1.1[0m" 500 -
 INFO:werkzeug: * Detected change in 'c:\\Users\\lenovo\\Documents\\hackathon\\Google-Solution-Challenge\\Backend\\server.py', reloading
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 12:58:32] "POST /upload HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 12:59:50] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:00:30] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\lenovo\\Documents\\hackathon\\Google-Solution-Challenge\\Backend\\ai.py', reloading
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:08:24] "POST /upload HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:09:07] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:09:47] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:16:42] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:22:50] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0010004043579101562
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:25:08] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:28:00] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:28:41] "POST /upload HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0009961128234863281
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:29:07] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:33:39] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:34:10] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:34:18] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0009949207305908203
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:34:42] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:35:45] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:37:36] "POST /upload HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:38:05] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:39:25] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:39:50] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0009984970092773438
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:40:18] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:41:01] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:42:29] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:42:48] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:43:00] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0010066032409667969
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:43:54] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:45:04] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:45:36] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:46:53] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:47:38] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:47:38] "[33mOPTIONS / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:47:38] "[33mOPTIONS / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:47:38] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:47:38] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:47:38] "OPTIONS /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0010075569152832031
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0009958744049072266
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:48:36] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:48:38] "[33mGET / HTTP/1.1[0m" 404 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:48:54] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:03] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:03] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:03] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:03] "OPTIONS /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:06] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:07] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:07] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:07] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0009984970092773438
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:10] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:10] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:10] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:10] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:10] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:10] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:11] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:11] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:11] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:11] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:11] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:11] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:11] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:11] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:11] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:11] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:11] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:49:11] "OPTIONS /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.001438140869140625
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0010035037994384766
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:51:32] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:52:11] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:52:57] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:52:57] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:52:57] "OPTIONS /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:52:59] "[35m[1mPOST /question HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:53:01] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:53:01] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:54:27] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:54:46] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:54:47] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:54:47] "OPTIONS /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0011720657348632812
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0009963512420654297
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:54:50] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:54:50] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:54:50] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:54:54] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:54:54] "OPTIONS /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:54:57] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:54:57] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:56:47] "POST /upload HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:57:19] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:58:15] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:58:15] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:58:15] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:58:16] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:58:16] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:58:16] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:58:16] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:58:16] "OPTIONS /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:58:16] "OPTIONS /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 13:58:17] "[35m[1mPOST /question HTTP/1.1[0m" 500 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 14:00:57] "POST /upload HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 14:01:21] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 14:02:18] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:Logger created
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016CC46B16A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /v1/engines/text-embedding-ada-002/embeddings
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016CC46B1D90>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /v1/engines/text-embedding-ada-002/embeddings
+WARNING:langchain.embeddings.openai:Retrying langchain.embeddings.openai.embed_with_retry.<locals>._completion_with_retry in 4.0 seconds as it raised APIConnectionError: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/engines/text-embedding-ada-002/embeddings (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016CC46B1910>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')).
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016CC46A5C70>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /v1/engines/text-embedding-ada-002/embeddings
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016CC46A5910>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /v1/engines/text-embedding-ada-002/embeddings
+WARNING:langchain.embeddings.openai:Retrying langchain.embeddings.openai.embed_with_retry.<locals>._completion_with_retry in 4.0 seconds as it raised APIConnectionError: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/engines/text-embedding-ada-002/embeddings (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016CC46A54C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')).
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016CC46A5A60>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /v1/engines/text-embedding-ada-002/embeddings
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016CC470F250>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /v1/engines/text-embedding-ada-002/embeddings
+WARNING:langchain.embeddings.openai:Retrying langchain.embeddings.openai.embed_with_retry.<locals>._completion_with_retry in 4.0 seconds as it raised APIConnectionError: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/engines/text-embedding-ada-002/embeddings (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016CC470FAF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')).
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016CC470F850>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /v1/engines/text-embedding-ada-002/embeddings
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016CC470F460>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /v1/engines/text-embedding-ada-002/embeddings
+WARNING:langchain.embeddings.openai:Retrying langchain.embeddings.openai.embed_with_retry.<locals>._completion_with_retry in 8.0 seconds as it raised APIConnectionError: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/engines/text-embedding-ada-002/embeddings (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016CC470F8E0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')).
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016CC47089A0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /v1/engines/text-embedding-ada-002/embeddings
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016CC4708FD0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /v1/engines/text-embedding-ada-002/embeddings
+WARNING:langchain.embeddings.openai:Retrying langchain.embeddings.openai.embed_with_retry.<locals>._completion_with_retry in 10.0 seconds as it raised APIConnectionError: Error communicating with OpenAI: HTTPSConnectionPool(host='api.openai.com', port=443): Max retries exceeded with url: /v1/engines/text-embedding-ada-002/embeddings (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016CC47084C0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')).
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016CC4708B80>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /v1/engines/text-embedding-ada-002/embeddings
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016CC4708550>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')': /v1/engines/text-embedding-ada-002/embeddings
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 15:29:10] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 15:29:58] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 15:30:56] "[35m[1mPOST /question HTTP/1.1[0m" 500 -
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 15:32:26] "POST /upload HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 15:33:08] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 15:33:38] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 15:34:08] "[35m[1mPOST /question HTTP/1.1[0m" 500 -
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 15:36:50] "POST /upload HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 15:37:14] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 15:38:03] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 16:02:57] "POST /upload HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 16:03:47] "POST /question HTTP/1.1" 200 -
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 16:04:45] "POST /question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 16:05:21] "[31m[1mPOST /question HTTP/1.1[0m" 400 -
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 16:05:30] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 16:05:46] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 16:06:11] "POST /upload HTTP/1.1" 200 -
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2023 16:10:11] "POST /question HTTP/1.1" 200 -
